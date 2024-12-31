@@ -1,5 +1,5 @@
 # ghambaridev
-<h1 align="center">Hi 👋, I'm mohammad ghanbary</h1>
+<h1 align="center">Hi 👋, I'm mohammad ghanbari</h1>
 <h3 align="center">A passionate computer enganier and a Web developer</h3>
 
 - 🌱 I’m currently learning **nodejs,reactjs**
